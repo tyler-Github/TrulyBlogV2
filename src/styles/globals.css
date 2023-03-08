@@ -7,3 +7,8 @@ code {
   padding: 1em;
   border-radius: 0.25rem;
 }
+
+img {
+  max-width: 100%;
+  border-radius: 5px;
+}
